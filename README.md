@@ -21,15 +21,29 @@
 
 <h2>LinkedIn Certificates Completed</h2>
 
-- [Programming Foundations: Object-Oriented Design](https://drive.google.com/file/d/1dgZPhrvfqD46B39bHL0WoviyfOsytoze/view?usp=sharing)
-- [Relational Database Essential Training](https://drive.google.com/file/d/1O1eTPoe2AYoBXjFH_0WSxX4G4JA2eHiv/view?usp=sharing)
-- [Software Design: Modeling UML](https://drive.google.com/file/d/1GH9oG9RvzrVVPEMOg7S_5EwAMAi7sdJ1/view?usp=sharing)
-- [PHP: Object-Oriented Programming with Databases](https://drive.google.com/file/d/1GTYSCt2qD82emlwETifxtwIIcjtlz8gA/view?usp=sharing)
-- [HTML Essential Training (2020)](https://drive.google.com/file/d/17R_-wHr9xIo7vueFywLXLB6Q6fFlC6pl/view?usp=sharing)
-- [Lo-Fi to Hi-Fi: Prototyping with Figma](https://drive.google.com/file/d/1lY27crrCfj5s09EOiu8_De0a066P8vMg/view?usp=sharing)
-- [Project Management: Preventing Project Creep](https://drive.google.com/file/d/1T16tlWoZdj1UFYNFxoCT7W0m4cMG2IcS/view?usp=sharing)
+- <b>Programming Foundations: Object-Oriented Design</b>
+  - [View](https://drive.google.com/file/d/1dgZPhrvfqD46B39bHL0WoviyfOsytoze/view?usp=sharing)
+- <b>Relational Database Essential Training</b>
+  - [view](https://drive.google.com/file/d/1O1eTPoe2AYoBXjFH_0WSxX4G4JA2eHiv/view?usp=sharing)
+- <b>Software Design: Modeling UML</b>
+  - [View](https://drive.google.com/file/d/1GH9oG9RvzrVVPEMOg7S_5EwAMAi7sdJ1/view?usp=sharing)
+- <b>PHP: Object-Oriented Programming with Databases</b>
+  - [View](https://drive.google.com/file/d/1GTYSCt2qD82emlwETifxtwIIcjtlz8gA/view?usp=sharing)
+- <b>HTML Essential Training (2020)</b>
+  - [View](https://drive.google.com/file/d/17R_-wHr9xIo7vueFywLXLB6Q6fFlC6pl/view?usp=sharing)
+- <b>Lo-Fi to Hi-Fi: Prototyping with Figma</b>
+  - [View](https://drive.google.com/file/d/1lY27crrCfj5s09EOiu8_De0a066P8vMg/view?usp=sharing)
+- <b>Project Management: Preventing Project Creep</b>
+  - [View](https://drive.google.com/file/d/1T16tlWoZdj1UFYNFxoCT7W0m4cMG2IcS/view?usp=sharing)
 
 <H2>Projects</H2>
+
+- <b>Register & Login Application - Using Android Studio With Kotlin</b>
+  - [Show Me](https://drive.google.com/drive/folders/13CFMIIOVYIJoxOwYe0pUCj221D1WxJ_D?usp=sharing)
+- <b>Antiques & Coffee Shop - Using PHP</b>
+  - [Show Me](https://drive.google.com/drive/folders/1DVP-W9d34U6BYlXNFrCwIVuRaN2gpCgr?usp=sharing)
+- <b>Java Databse Connectivity(JDBC) Project</b>
+  - [Show Me](https://drive.google.com/drive/folders/1RxGLQJzq5s9e-Ohvhh6to1-LqPNcuSfy?usp=sharing)
 
 <H2>CV</H2>
 
@@ -42,16 +56,5 @@
 [linkedin]: https://www.linkedin.com/in/samnkelo-ngxande-2a8549210/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My Comments
 -->
