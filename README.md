@@ -6,7 +6,7 @@
 
 <p>I thrive in environments that foster growth and excellence. My strong imaginative abilities allow me to visualize and effectively develop applications. As a student, I have gained a solid foundation in ICT, and I am eager to expand my knowledge and skills as a developing professional.</p>
 
-<H2><a href="https://github.com/Samnkelo-Ngxande---Github-Profile">Github</a>, <a href="https://www.linkedin.com/in/samnkelo-ngxande-2a8549210/">Linkedin Profile</a></H2>
+<H2><a href="https://github.com/Samnke">Github profile</a>, <a target="" href="https://www.linkedin.com/in/samnkelo-ngxande-2a8549210/">Linkedin profile</a></H2>
 
 <H2>Skills:</H2>
 
