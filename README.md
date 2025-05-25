@@ -49,7 +49,7 @@
 - <b>Register & Login Application - Using Android Studio With Kotlin</b>
   - [Show Me](https://github.com/Samnke/BasicLoginApp.git)
 - <b>Antiques & Coffee Shop - Using PHP</b>
-  - [Show Me](https://drive.google.com/drive/folders/1DVP-W9d34U6BYlXNFrCwIVuRaN2gpCgr?usp=sharing)
+  - [Show Me](https://github.com/Samnke/Antique-Coffee-Shop-Project.git)
 - <b>Java Databse Connectivity(JDBC) Project</b>
   - [Show Me](https://github.com/Samnke/Java-Database-Connectivity-Project.git)
 
