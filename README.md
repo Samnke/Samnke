@@ -2,11 +2,19 @@
 
 <h2>👨‍💻 Information and Communications Technology Student</h2>
 
-<p>I am a dedicated third-year student at Cape Peninsula University of Technology, pursuing a Diploma in Information Communications Technology with a focus on Application Development.</p>
+<p>I am a dedicated third-year student at Cape Peninsula University of Technology, pursuing a Diploma in Information and Communications Technology with a focus on Application Development.</p>
 
 <p>I thrive in environments that foster growth and excellence. My strong imaginative abilities allow me to visualize and effectively develop applications. As a student, I have gained a solid foundation in ICT, and I am eager to expand my knowledge and skills as a developing professional.</p>
 
 <H2><a href="https://github.com/Samnke" target="_blank">Github profile</a>, <a href="https://www.linkedin.com/in/samnkelo-ngxande-2a8549210/" target="_blank">Linkedin profile</a></H2>
+
+<H2>Education</H2>
+
+- <b>Masikanyise High School</b>
+  - <p>Grade 12 - Completed 2019</p>
+- <b>Cape Peninsula University of Technology (CPUT)</b>
+  - <p>Diploma in Information and Communications Technology</p>
+  - <p>With a focus on application development</p>
 
 <H2>Skills:</H2>
 
