@@ -47,7 +47,7 @@
 <H2>Projects</H2>
 
 - <b>Register & Login Application - Using Android Studio With Kotlin</b>
-  - [Show Me](https://drive.google.com/drive/folders/13CFMIIOVYIJoxOwYe0pUCj221D1WxJ_D?usp=sharing)
+  - [Show Me](https://github.com/Samnke/BasicLoginApp.git)
 - <b>Antiques & Coffee Shop - Using PHP</b>
   - [Show Me](https://drive.google.com/drive/folders/1DVP-W9d34U6BYlXNFrCwIVuRaN2gpCgr?usp=sharing)
 - <b>Java Databse Connectivity(JDBC) Project</b>
