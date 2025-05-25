@@ -51,7 +51,7 @@
 - <b>Antiques & Coffee Shop - Using PHP</b>
   - [Show Me](https://drive.google.com/drive/folders/1DVP-W9d34U6BYlXNFrCwIVuRaN2gpCgr?usp=sharing)
 - <b>Java Databse Connectivity(JDBC) Project</b>
-  - [Show Me](https://drive.google.com/drive/folders/1RxGLQJzq5s9e-Ohvhh6to1-LqPNcuSfy?usp=sharing)
+  - [Show Me](https://github.com/Samnke/Java-Database-Connectivity-Project.git)
 
 <H2>CV</H2>
 
