@@ -26,6 +26,15 @@
 - <b>Avarage understanding of computer architecture</b>
 - <b>Prototyping</b>
 
+<H2>Projects</H2>
+
+- <b>Register & Login Application - Using Android Studio With Kotlin</b>
+  - [Show Me](https://github.com/Samnke/BasicLoginApp.git)
+- <b>Antiques & Coffee Shop - Using PHP</b>
+  - [Show Me](https://github.com/Samnke/Antique-Coffee-Shop-Project.git)
+- <b>Java Databse Connectivity(JDBC) Project</b>
+  - [Show Me](https://github.com/Samnke/Java-Database-Connectivity-Project.git)
+
 <h2>LinkedIn Certificates Completed</h2>
 
 - <b>Programming Foundations: Object-Oriented Design</b>
@@ -43,15 +52,6 @@
 - <b>Project Management: Preventing Project Creep</b>
   - [View](https://drive.google.com/file/d/1T16tlWoZdj1UFYNFxoCT7W0m4cMG2IcS/view?usp=sharing)
 <p>And more, with a focus on system development.</p>
-
-<H2>Projects</H2>
-
-- <b>Register & Login Application - Using Android Studio With Kotlin</b>
-  - [Show Me](https://github.com/Samnke/BasicLoginApp.git)
-- <b>Antiques & Coffee Shop - Using PHP</b>
-  - [Show Me](https://github.com/Samnke/Antique-Coffee-Shop-Project.git)
-- <b>Java Databse Connectivity(JDBC) Project</b>
-  - [Show Me](https://github.com/Samnke/Java-Database-Connectivity-Project.git)
 
 <H2>CV</H2>
 
