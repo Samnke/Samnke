@@ -17,7 +17,7 @@
 
 <H2>Skills:</H2>
 
-- <b>Object-oriented programming (OOP)</b>
+- <b>Object-Oriented Programming (OOP)</b>
 - <b>Java Database Connectivity (JDBC)</b>
 - <b>Java</b>
 - <b>Kotlin</b>
