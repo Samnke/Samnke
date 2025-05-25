@@ -13,8 +13,7 @@
 - <b>Masikanyise High School</b>
   - <p>Grade 12 - Completed 2019</p>
 - <b>Cape Peninsula University of Technology (CPUT)</b>
-  - <p>Diploma in Information and Communications Technology</p>
-  - <p>With a focus on application development</p>
+  - <p>Diploma in Information and Communications Technology - Application Development</p>
 
 <H2>Skills:</H2>
 
@@ -43,6 +42,7 @@
   - [View](https://drive.google.com/file/d/1lY27crrCfj5s09EOiu8_De0a066P8vMg/view?usp=sharing)
 - <b>Project Management: Preventing Project Creep</b>
   - [View](https://drive.google.com/file/d/1T16tlWoZdj1UFYNFxoCT7W0m4cMG2IcS/view?usp=sharing)
+<p>And more, with a focus on system development.</p>
 
 <H2>Projects</H2>
 
