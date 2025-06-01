@@ -6,12 +6,14 @@
 
 <p>I thrive in environments that foster growth and excellence. My strong imaginative abilities allow me to visualize and effectively develop applications. As a student, I have gained a solid foundation in ICT, and I am eager to expand my knowledge and skills as a developing professional.</p>
 
-<H2><a href="https://github.com/Samnke" target="_blank">Github profile</a>, <a href="https://www.linkedin.com/in/samnkelo-ngxande-2a8549210/" target="_blank">Linkedin profile</a></H2>
+<H2><a href="https://www.linkedin.com/in/samnkelo-ngxande-2a8549210/" target="_blank">Linkedin profile</a></H2>
 
 <H2>Education</H2>
 
 - <b>Masikanyise High School</b>
   - <p>Grade 12 - Completed 2019</p>
+- <b>Cape Peninsula University of Technology (CPUT)</b>
+  - <p>Higher Certificate in Information and Communication Technology - Completed 2021</p>
 - <b>Cape Peninsula University of Technology (CPUT)</b>
   - <p>Diploma in Information and Communications Technology - Application Development</p>
 
@@ -51,7 +53,7 @@
   - [View](https://drive.google.com/file/d/1lY27crrCfj5s09EOiu8_De0a066P8vMg/view?usp=sharing)
 - <b>Project Management: Preventing Project Creep</b>
   - [View](https://drive.google.com/file/d/1T16tlWoZdj1UFYNFxoCT7W0m4cMG2IcS/view?usp=sharing)
-<p>And more, with a focus on system development.</p>
+<p>And more, with a focus on sofware development.</p>
 
 <H2>CV</H2>
 
