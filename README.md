@@ -25,7 +25,7 @@
 - <b>Kotlin</b>
 - <b>HTML, CSS, and JavaScript</b>
 - <b>Git and Github</b>
-- <b>Avarage understanding of computer architecture</b>
+- <b>Foundational understanding of computer architecture</b>
 - <b>Prototyping</b>
 
 <H2>Projects</H2>
