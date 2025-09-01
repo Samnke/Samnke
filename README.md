@@ -57,7 +57,7 @@
 
 <H2>CV</H2>
 
-- [Samnkelo Ngxande's CV](https://drive.google.com/file/d/1lp8EUn9JeoxJ4F4e4ZJGmS3SzoKDZATI/view?usp=sharing)
+- [Samnkelo Ngxande's CV](https://drive.google.com/file/d/1uc7kJ3c-X6dUXKTCCkOJ9n7NHTQ3B-xC/view?usp=sharing)
 
 <h2>Connect with me:</h2>
 
